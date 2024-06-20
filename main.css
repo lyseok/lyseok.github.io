@@ -13,12 +13,11 @@ body {
 }
 
 .grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  grid-template-rows: repeat(3, auto);
+  gap: 10px;
   position: relative;
-  width: 1250px;
-  height: 386px; 
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 .grid-item {
