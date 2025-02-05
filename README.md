@@ -1,5 +1,5 @@
 # lyseok.github.io
-# https://github.com/lyseok/lyseok.github.io
+# https://lyseok-github-io.vercel.app/
 # 20190889
 # 이윤석
 
